@@ -1,51 +1,51 @@
-# Hi, I’m Joy Ndabari 
+<!-- Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&center=true&lines=Hi+there!+;I'm+Joy+Ndabari+|+Software+Developer" alt="Typing SVG"/>
+</p>
 
- **Software Developer**  
-I’m a results-driven software developer specializing in building modern, scalable web and mobile applications. I enjoy turning ideas into reliable digital products and collaborating on solutions that create real impact.
+<p align="center">
+  <a href="https://github.com/Nimmoh"><img src="https://user-badge.committers.top/turkey/Nimmoh.svg" alt="Committers Badge"></a>
+</p>
+
+---
+
+##  About Me
+
+I’m a passionate **Software Developer** focused on building scalable mobile and web applications using Flutter, React, Node.js, and JavaScript. I love solving real-world problems and bringing ideas to life through clean, efficient code.
 
 ---
 
 ##  Tech Stack
-- **Mobile:** Flutter  
-- **Frontend:** React  
-- **Backend:** Node.js  
-- **Language:** JavaScript  
-- **Tools:** Git, GitHub, REST APIs
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
 ---
 
-##  Featured Projects
+##  What I’m Building
 
-###  Spearmode
-A business-focused application built to streamline operations and improve customer engagement.  
-🔗 https://github.com/Nimmoh/spearmode
+Below, you’ll see my **top projects** pinned  — each one representing my core skills and growth journey as a developer.
 
-###  Carwash Management System
-A management system designed to handle bookings, services, and operations for car wash businesses efficiently.  
-🔗 https://github.com/Nimmoh/carwash-management
-
-### Kambove Enterprises
-A company website and system focused on showcasing services and strengthening online presence.  
-🔗 https://github.com/Nimmoh/kambove-enterprises
-
->  *More projects available in my repositories.*
+*(Use GitHub’s pin feature to select and order them: Spearmode, Carwash-Management, Kambove-Enterprises)*
 
 ---
 
-##  Portfolio
-🔗 https://joy-portfolio-site.vercel.app/
+##  How to Reach Me
 
----
-
-##  Contact Me
-- **Email:** ndabari79@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/joy-ndabari-36897a165  
+<p align="center">
+  <a href="mailto:ndabari79@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/joy-ndabari-36897a165"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://joy-portfolio-site.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
 
 ---
 
 ##  GitHub Stats
-![Joy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nimmoh&show_icons=true&theme=default)
 
----
-
- *Open to freelance projects, collaborations, and new opportunities.*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nimmoh&show_icons=true&theme=default" alt="Joy’s GitHub Stats" />
+</p>
