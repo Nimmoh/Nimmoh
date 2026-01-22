@@ -1,10 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&center=true&lines=Hi+there!+;I'm+Joy+Ndabari+|+Software+Developer" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Nimmoh"><img src="https://user-badge.committers.top/turkey/Nimmoh.svg" alt="Committers Badge"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&center=true&lines=Hi+there!+; I'm+Joy|+Software+Developer" alt="Typing SVG"/>
 </p>
 
 ---
