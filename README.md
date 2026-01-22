@@ -20,12 +20,10 @@ I’m a passionate **Software Developer** focused on building scalable mobile an
 
 ##  What I’m Building
 
-Below, you’ll see my **top projects** pinned  — each one representing my core skills and growth journey as a developer.
-
-*(Use GitHub’s pin feature to select and order them: Spearmode, Carwash-Management, Kambove-Enterprises)*
+Below, you’ll see my **top projects** pinned each one representing my core skills and growth journey as a developer.
 
 
-##  How to Reach Me
+##  How to contact Me
 
 <p align="center">
   <a href="mailto:ndabari79@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
