@@ -1,15 +1,14 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&center=true&lines=Hi+there!+; I'm+Joy|+Software+Developer" alt="Typing SVG"/>
+  Welcome to my GitHub Account
 </p>
 
----
+
 
 ##  About Me
 
 I’m a passionate **Software Developer** focused on building scalable mobile and web applications using Flutter, React, Node.js, and JavaScript. I love solving real-world problems and bringing ideas to life through clean, efficient code.
 
----
 
 ##  Tech Stack
 
@@ -20,7 +19,6 @@ I’m a passionate **Software Developer** focused on building scalable mobile an
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
----
 
 ##  What I’m Building
 
@@ -28,7 +26,6 @@ Below, you’ll see my **top projects** pinned  — each one representing my cor
 
 *(Use GitHub’s pin feature to select and order them: Spearmode, Carwash-Management, Kambove-Enterprises)*
 
----
 
 ##  How to Reach Me
 
@@ -38,7 +35,6 @@ Below, you’ll see my **top projects** pinned  — each one representing my cor
   <a href="https://joy-portfolio-site.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
----
 
 ##  GitHub Stats
 
