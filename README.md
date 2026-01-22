@@ -1,9 +1,7 @@
 <!-- Header -->
 <p align="center">
-  Welcome to my GitHub Account
+WELCOME TO MY GITHUB ACCOUNT
 </p>
-
-
 
 ##  About Me
 
