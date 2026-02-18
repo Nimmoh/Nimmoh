@@ -108,8 +108,6 @@ I'm always interested in discussing new projects, tech trends, or collaboration 
 **Reach out:**
 - 🌐 Portfolio: [joy-portfolio-site.vercel.app](https://joy-portfolio-site.vercel.app/)
 - 💼 LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/joy-ndabari-36897a165)
-
-)
 - 📧 Email: ndabari79@gmail.com
 
 ---
