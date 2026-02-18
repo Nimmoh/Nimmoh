@@ -77,9 +77,18 @@ const skills = {
 
 ---
 
-## GitHub Stats
 
-![Joy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nimmoh&show_icons=true&theme=default&hide_border=true)
+##  GitHub Stats
+
+<div align="center">
+
+![Joy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nimmoh&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimmoh&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nimmoh&theme=default&hide_border=true)
+
+</div>
 
 ---
 
